@@ -16,8 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-<a href="https://giaanl.github.io/Social-Links/" target="_blank">Clique aqui para visualizar o projeto</a>
-
+<h2 align="center">
+<a href="https://giaanl.github.io/Social-Links/" target="_blank">Clique aqui para visualizar o projeto.</a>
+<h2>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT
